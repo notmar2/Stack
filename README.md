@@ -1,5 +1,5 @@
 <!-- LTeX: language=es -->
-### Documentación de SLL
+### Documentación de Stack
 La presente documentación incluye los siguientes elementos:
 - `DLList.h`: Contiene nuestra clase donde definimos los distintos miembros e implementaciones.
 - `main.cpp`: Contiene un par de pruebas para asegurar que funcionara la clase.
